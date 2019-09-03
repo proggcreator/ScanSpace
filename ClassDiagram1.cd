@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab10_11.Program" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>LabSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.Space_obj">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Lab10_11.Space_obj.MyDeleg" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ScanSpace.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABICACACAAAAAAAQAAAAAAAAAAAAAACABAAA=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.Planet">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.LifPlant">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.DiePlant">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.Star">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAIAAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.Black_hole">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab10_11.MyException">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ScanSpace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
